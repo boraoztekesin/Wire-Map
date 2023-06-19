@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "host": 123,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Fast",
+    "is_blocked": false,
+    "is_being_used": true,
+    "price": "10.50"
+  },
+  {
+    "id": 2,
+    "host": 456,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Medium",
+    "is_blocked": false,
+    "is_being_used": false,
+    "price": "7.80"
+  },
+  {
+    "id": 3,
+    "host": 789,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Slow",
+    "is_blocked": true,
+    "is_being_used": false,
+    "price": "5.25"
+  },
+  {
+    "id": 4,
+    "host": 123,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Medium",
+    "is_blocked": false,
+    "is_being_used": false,
+    "price": "8.75"
+  },
+  {
+    "id": 5,
+    "host": 456,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Fast",
+    "is_blocked": false,
+    "is_being_used": true,
+    "price": "11.20"
+  },
+  {
+    "id": 6,
+    "host": 789,
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_speed": "Slow",
+    "is_blocked": true,
+    "is_being_used": false,
+    "price": "6.50"
+  }
+]

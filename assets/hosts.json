@@ -1,0 +1,22 @@
+[{
+    "hostid": "1",
+    "hostname": "ahmet",
+    "latitude": "39.933452",
+    "longitude": "32.864505",
+    "charge_info": "120mw",
+    "is_available": true
+  } ,  {
+    "hostid": "2",
+    "hostname": "mehmet",
+    "latitude": "39.907974",
+    "longitude": "32.803441",
+    "charge_info": "140mw",
+    "is_available": true
+  }, {
+    "hostid": "3",
+    "hostname": "karahanlı",
+    "latitude": "39.900777",
+    "longitude": "32.794525",
+    "charge_info": "170mw",
+    "is_available": true
+  }  ]
