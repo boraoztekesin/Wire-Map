@@ -1,6 +1,6 @@
 # WireMap: A Decentralized Electric Vehicle Charging Network
 
-![WireMap Screenshot](image_link_here)
+![WireMap Screenshot]([image_link_here](https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2013_03_09.png?raw=true))
 
 WireMap is an innovative web and mobile application designed to transform the Electric Vehicle (EV) charging experience. By enabling homeowners (hosts) to offer their charging stations to EV owners (clients), we've created a decentralized network of charging stations. This project, conceived as a final year project, brings about a new paradigm in the EV charging sector.
 
