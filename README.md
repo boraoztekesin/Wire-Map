@@ -27,7 +27,7 @@ The mobile application of WireMap offers a variety of features:
 
 Upon launching the WireMap mobile application, you'll be greeted with a login screen. If you're a new user, navigate to the registration page to create your account.
 
-<img src="https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2012_59_41.png?raw=true" alt="WireMap Screenshot 3" width="200"/>
+<img src="https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2012_59_41.png?raw=true" alt="WireMap Screenshot 3" width="300"/>
 
 Once logged in, you'll be directed to the home page where you can add your EVs' details. With your EVs added, you can proceed to discover charging stations using the integrated Google Maps API or through a list view.
 
