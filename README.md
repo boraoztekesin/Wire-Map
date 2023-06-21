@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td> <img src="https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2013_03_09.png?raw=true" alt="WireMap Screenshot 1" style="width: 300px;  padding: 10px"/> </td>
-    <td> <img src="https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2013_04_01.png?raw=true" alt="WireMap Screenshot 2" style="width: 300px; "/> </td>
+    <td> <img src="https://github.com/boraoztekesin/Wire-Map/blob/master/Android%20Emulator%20-%20Pixel_4_API_30_5554%2016.06.2023%2013_04_01.png?raw=true" alt="WireMap Screenshot 2" style="width: 300px;  padding: 10px "/> </td>
   </tr>
 </table>
 
