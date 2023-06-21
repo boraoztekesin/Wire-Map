@@ -1,20 +1,36 @@
-<<<<<<< HEAD
-# wire_app2
+# WireMap: A Decentralized Electric Vehicle Charging Network
 
-A new Flutter project.
+![WireMap Screenshot](image_link_here)
 
-## Getting Started
+WireMap is an innovative web and mobile application designed to transform the Electric Vehicle (EV) charging experience. By enabling homeowners (hosts) to offer their charging stations to EV owners (clients), we've created a decentralized network of charging stations. This project, conceived as a final year project, brings about a new paradigm in the EV charging sector.
 
-This project is a starting point for a Flutter application.
+For a comprehensive understanding of our project, please visit our [project website](https://wiremap-landing-8cnf.vercel.app/).
 
-A few resources to get you started if this is your first Flutter project:
+This repository specifically hosts the mobile application built with Flutter, which serves as the clients' portal. It allows clients to register, add their EVs, discover charging stations, and make reservations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# WireMap
->>>>>>> a3517fdbaba65014f9d16ab366ad9fe4241fd1cf
+The mobile application of WireMap offers a variety of features:
+
+- **User Authentication**: Register, login, and manage your profile.
+- **Vehicle Management**: Add and view your EVs' information.
+- **Station Discovery**: Explore charging stations using Google Maps API or view them in a list format.
+- **Reservation System**: Reserve a charging station and manage your reservations.
+
+## Usage
+
+
+Upon launching the WireMap mobile application, you'll be greeted with a login screen. If you're a new user, navigate to the registration page to create your account.
+
+Once logged in, you'll be directed to the home page where you can add your EVs' details. With your EVs added, you can proceed to discover charging stations using the integrated Google Maps API or through a list view.
+
+Selecting a station will bring up the reservation page, allowing you to reserve a time slot for charging your vehicle. To manage your reservations, return to the home page and navigate to your reservation list.
+
+## Future Directions
+
+WireMap is continuously evolving. If the project were to be continued in the future, some potential enhancements might include real-time charging status updates, integration with smart home devices, and expansion to accommodate other forms of green transport, such as e-bikes and e-scooters.
+
+---
+
+Please replace `image_link_here` and `video_link_here` with the URLs of your image and video respectively.
+
