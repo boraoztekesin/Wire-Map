@@ -35,7 +35,7 @@ Selecting a station will bring up the reservation page, allowing you to reserve 
 
 ## Future Directions
 
-WireMap is continuously evolving. If the project were to be continued in the future, some potential enhancements might include real-time charging status updates, integration with smart home devices, and expansion to accommodate other forms of green transport, such as e-bikes and e-scooters.
+WireMap is continuously evolving. If the project were to be continued in the future, some potential enhancements might include real time charging status updates, integration with smart home devices, and expansion to accommodate other forms of green transport, such as e-bikes and e-scooters.
 ## Contribute
 If you're excited about decentralized networks and sustainable energy and want to contribute to WireMap, please feel free to submit a pull request or open an issue.
 
