@@ -49,9 +49,6 @@ class Api {
       body: jsonEncode(loginRequest.toJson()),
       headers: headers,
     );
-    print(response.statusCode);
-    print(response.body.toString());
-
     try {
       if (response.statusCode == 200) {
         final result = json.decode(response.body);
