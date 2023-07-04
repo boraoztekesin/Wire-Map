@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
             debugShowCheckedModeBanner: false,
             home: Scaffold(
               body: Center(
-                child: Text('Bir hata oluştu.'),
+                child: Text('An error occured.'),
               ),
             ),
           );
@@ -87,7 +87,7 @@ class _HomeState extends State<Home> {
       ),
       body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
-        type: BottomNavigationBarType.fixed, // Eklenen satır
+        type: BottomNavigationBarType.fixed, 
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
@@ -185,7 +185,7 @@ class _MapViewState extends State<MapView> {
         children: [
           Container(
             height: MediaQuery.of(context).size.height *
-                0.7, // Haritanın boyutunu belirlemek için
+                0.7,
             child: GoogleMap(
               onMapCreated: _onMapCreated,
               markers: markers,
@@ -315,8 +315,8 @@ class _MapViewState extends State<MapView> {
                         'Status: ${(station.isBlocked ?? false) || (station.isBeingUsed ?? false) ? 'Currently Not Available' : 'Available'}'),
                     ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.orange, // This sets button color
-                        onPrimary: Colors.white, // This sets text color
+                        primary: Colors.orange,
+                        onPrimary: Colors.white, 
                       ),
                       onPressed: () {
                         Navigator.push(
