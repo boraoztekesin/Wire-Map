@@ -13,15 +13,10 @@ class Api {
   static String baseURL = "EXAMPLE_URL";
 
   Future<int> getDecodedId() async {
-    // Get the JWT token from shared preferences
     SharedPreferences prefs = await SharedPreferences.getInstance();
     String token = prefs.getString('token')!;
-
-    // Decode the JWT token
     Map<String, dynamic> decodedToken = JwtDecoder.decode(token);
-
     int id = decodedToken['id'];
-    // Return the decoded "id" field
     return id;
   }
 
@@ -70,8 +65,6 @@ class Api {
       return null;
     }
   }
-
-// Updated registerCall method
   static Future<UserRegisterResponse?> registerCall(
       {required UserRegisterRequest registerRequest}) async {
     final headers = {
