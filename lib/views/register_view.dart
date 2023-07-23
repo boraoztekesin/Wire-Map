@@ -24,7 +24,6 @@ class _RegisterPageState extends State<RegisterPage> {
     return Scaffold(
         backgroundColor: Colors.white,
         body: SingleChildScrollView(
-          // <--- Add this
           child: Form(
             key: _formKey,
             child: Column(
@@ -126,27 +125,24 @@ class _RegisterPageState extends State<RegisterPage> {
 
   bool _validateForm() {
     if (_emailController.text.isEmpty) {
-      // display an error message
       return false;
     }
     if (_usernameController.text.isEmpty) {
-      // display an error message
       return false;
     }
     if (_passwordController.text.isEmpty) {
-      // display an error message
       return false;
     }
     if (_firstNameController.text.isEmpty) {
-      // display an error message
+      
       return false;
     }
     if (_lastNameController.text.isEmpty) {
-      // display an error message
+    
       return false;
     }
     if (_phoneController.text.isEmpty) {
-      // display an error message
+    
       return false;
     }
     return true;
